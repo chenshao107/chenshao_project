@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bracket.jpg</file>
+        <file>res/bracket.png</file>
+    </qresource>
+</RCC>
